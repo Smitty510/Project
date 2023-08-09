@@ -1,0 +1,10 @@
+{
+  "version": 2,
+  "dgSpecHash": "21flGwagjLK+b5i9Ok8dH5YgnnTh6jdcVSqIWudNz9rxtFrpICE3qXTznM1yddGHISopgc/w9nkRRzO4f7uz0w==",
+  "success": true,
+  "projectFilePath": "C:\\Users\\psmit\\OneDrive\\Desktop\\Repos\\Project\\RecipeFinder\\RecipeFinder.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\psmit\\.nuget\\packages\\newtonsoft.json\\13.0.3\\newtonsoft.json.13.0.3.nupkg.sha512"
+  ],
+  "logs": []
+}
